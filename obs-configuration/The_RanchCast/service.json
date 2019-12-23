@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "bwtest": false,
+        "key": "re_1540193_e0e7eb5692b98fce20b4",
+        "server": "live.restream.io",
+        "service": "Restream.io - FTL"
+    },
+    "type": "rtmp_common"
+}
