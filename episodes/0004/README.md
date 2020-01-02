@@ -1,6 +1,6 @@
 # Automate All The Things 3/?
 
-<a href="https://www.youtube.com/embed/N88Vc5-5JIo"></a>
+[https://www.youtube.com/embed/N88Vc5-5JIo](https://www.youtube.com/embed/N88Vc5-5JIo)
 
 Air Date: 21 Aug 2019
 Host: [Jason van Brackel](twitter.com/jasonvanbrackel)

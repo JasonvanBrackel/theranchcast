@@ -1,6 +1,6 @@
 # Live from KubeCon North America 2019 with Tigera
 
-<a href="https://www.youtube.com/embed/_kueVy7vKAA"></a>
+[https://www.youtube.com/embed/_kueVy7vKAA](https://www.youtube.com/embed/_kueVy7vKAA)
 
 Air Date: 19 Nov 2019
 Host: [Jason van Brackel](twitter.com/jasonvanbrackel)

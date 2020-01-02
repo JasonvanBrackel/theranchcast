@@ -1,6 +1,6 @@
 # Live at KubeCon North America 2019 with Instana
 
-<a href="https://www.youtube.com/embed/Zrm6YMS4svs"></a>
+[https://www.youtube.com/embed/Zrm6YMS4svs](https://www.youtube.com/embed/Zrm6YMS4svs)
 
 Air Date: 20 Nov 2019
 Host: [Jason van Brackel](twitter.com/jasonvanbrackel)

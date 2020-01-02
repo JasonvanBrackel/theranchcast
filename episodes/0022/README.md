@@ -1,6 +1,6 @@
 # Live at KubeCon 2019 with Chris Carty     
 
-<a href="https://www.youtube.com/embed/EDDQEPoQMKY"></a>
+[https://www.youtube.com/embed/EDDQEPoQMKY](https://www.youtube.com/embed/EDDQEPoQMKY)
 
 Air Date: 20 Nov 2019
 Host: [Jason van Brackel](twitter.com/jasonvanbrackel)
