@@ -5,4 +5,5 @@
 Air Date: 20 Nov 2019
 
 Host: [Jason van Brackel](twitter.com/jasonvanbrackel)
+
 Guest: [Chris Carty](twitter.com/machintoshPrime)

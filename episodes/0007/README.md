@@ -5,4 +5,5 @@
 Air Date: 11 Sept 2019
 
 Host: [Jason van Brackel](twitter.com/jasonvanbrackel)
-Guest [Austin Parker](twitter.com/austinlparker)
+
+Guest: [Austin Parker](twitter.com/austinlparker)
