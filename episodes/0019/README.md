@@ -3,4 +3,5 @@
 [https://www.youtube.com/watch?v=zZyj4CGniQ8](https://www.youtube.com/watch?v=zZyj4CGniQ8)
 
 Air Date: 19 Nov 2019
+
 Host: [Jason van Brackel](twitter.com/jasonvanbrackel)

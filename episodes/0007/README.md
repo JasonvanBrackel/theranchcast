@@ -3,5 +3,6 @@
 [https://www.youtube.com/watch?v=VsmUwLlfQo4](https://www.youtube.com/watch?v=VsmUwLlfQo4)
 
 Air Date: 11 Sept 2019
+
 Host: [Jason van Brackel](twitter.com/jasonvanbrackel)
 Guest [Austin Parker](twitter.com/austinlparker)

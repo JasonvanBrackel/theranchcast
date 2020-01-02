@@ -3,6 +3,7 @@
 <!-- Embedded video goes here -->
 
 Air Date: DD MMM YYYY
+
 Host: [Jason van Brackel](twitter.com/jasonvanbrackel)
 
 ## Table of Contents
