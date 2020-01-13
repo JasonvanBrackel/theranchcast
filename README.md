@@ -10,10 +10,14 @@ Live episodes are available on [YouTube](youtube.com/c/theranchcast) and [Twitch
 
 ## Current Series Schedule
 
-Monday 9am ET - [Breaking the Monolith](series/breaking-the-monolith/README.md)
-
 Tuesday 10am ET - [Automating all the Things](series/automating-all-the-things/README.md)
 
-Thursday 11am ET - [Let's Learn Together](series/lets-learn-together/README.md)
+Thursday 11am ET - [Breaking the Monolith](series/breaking-the-monolith/README.md)
+
+## Coming Soon
+
+[Let's Learn Together](series/lets-learn-together/README.md)
+
+## Past Series
 
 Past Series aired on The RanchCast are on the [series list](series/README.md).
