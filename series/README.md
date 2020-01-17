@@ -4,9 +4,11 @@ Not all episodes of The RanchCast are part of series, but series represent on go
 
 # Current Series
 
-Monday 9am ET - [Breaking the Monolith](breaking-the-monolith/README.md) 
+Tuesdays 10am ET - [Automating all the Things](automating-all-the-things/README.md)
 
-Tuesday 10am ET - [Automating all the Things](automating-all-the-things/README.md)
+Thursdays 11am ET - [Breaking the Monolith](breaking-the-monolith/README.md) 
+
+# Coming Soon
 
 Thursday 11am ET - [Let's Learn Together](lets-learn-together/README.md)
 
