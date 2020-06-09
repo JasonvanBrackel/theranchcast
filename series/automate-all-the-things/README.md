@@ -10,3 +10,7 @@ In this series we're live coding and scripting everything from Docker Deployment
 - [0005 - Automate All The Things 4/?](../../episodes/0005/README.md) 
 - [0006 - Automate All The Things 5/?](../../episodes/0006/README.md) 
 - [0009 - Automate All The Things 6/?](../../episodes/0009/README.md) 
+- [0031 - Automate All The Things 7/?](../../episodes/0031/README.md)
+- [0032 - Automate All The Things 8/?](../../episodes/0032/README.md)
+- [0033 - Automate All The Things 9/?](../../episodes/0033/README.md)
+- [0034 - Automate All The Things 10/?](../../episodes/0034/README.md)

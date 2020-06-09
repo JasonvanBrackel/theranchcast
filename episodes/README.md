@@ -31,3 +31,7 @@
 - 0028 - [Live at KubeCon North America 2019 with Rackn](0028/README.md)
 - 0029 - [Live at KubeCon North America 2019 with Submariner](0029/README.md)
 - 0030 - [Live at KubeCon North America 2019 with Kasten](0030/README.md)
+- 0031 - [Automating All The Things 7/?](0031/README.md)
+- 0032 - [Automating All The Things 8/?](0032/README.md)
+- 0033 - [Automating All The Things 9/?](0033/README.md)
+- 0034 - [Automating All The Things 10/?](0034/README.md)
