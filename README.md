@@ -8,11 +8,9 @@ The [episode list](episodes/README.md) contains the list of episodes ordered by 
 
 Live episodes are available on [YouTube](youtube.com/c/theranchcast) and [Twitch](twitch.tv/theranchcast), with archives on [YouTube](youtube.com/c/theranchcast).
 
-## Current Series Schedule
+## Schedule
 
-Tuesday 10am ET - [Automating all the Things](series/automating-all-the-things/README.md)
-
-Thursday 11am ET - [Breaking the Monolith](series/breaking-the-monolith/README.md)
+Every Other Tuesday 9am ET - Bi-Weekly Stream
 
 ## Coming Soon
 
