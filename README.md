@@ -12,10 +12,6 @@ Live episodes are available on [YouTube](youtube.com/c/theranchcast) and [Twitch
 
 Every Other Tuesday 9am ET - Bi-Weekly Stream
 
-## Coming Soon
-
-[Let's Learn Together](series/lets-learn-together/README.md)
-
 ## Past Series
 
 Past Series aired on The RanchCast are on the [series list](series/README.md).
