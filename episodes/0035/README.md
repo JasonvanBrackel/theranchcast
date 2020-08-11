@@ -2,7 +2,7 @@
 
 [The RanchCast - K3d For Developer Workflows](https://youtu.be/81jFyQI6O4Q)
 
-Air Date: 21 Mar 2020
+Air Date: 21 Jul 2020
 
 Host: [Jason van Brackel](twitter.com/jasonvanbrackel)
 
